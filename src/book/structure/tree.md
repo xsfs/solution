@@ -37,7 +37,7 @@
 
 二叉树的遍历方法([code](code/tree/BinaryTree.java))：
 ![二叉树](resource/binaryTree.png "二叉树")
-![二叉树](resource/binaryTree.png "二叉树")
+![二叉树](resource/apple-touch-icon_meitu_2.png "二叉树")
 - 1.**前序遍历** 若二叉树为空，则空操作返回，否则先访问根结点，然后前序遍历左子树，再前序遍历右子树。ABDGHCEIF
 - 2.**中序遍历** 若二叉树为空，则空操作返回，否则从根结点开始，中序遍历根结点的左子树，然后访问根结点，最后中序遍历右子树。GDHBAEICF
 - 3.**后序遍历** 若二叉树为空，则空操作返回，否则从左到右先叶子后结点的方式遍历访问左右子树，最后是访问根结点。GHDBIEFCA
